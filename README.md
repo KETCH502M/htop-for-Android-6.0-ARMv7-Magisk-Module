@@ -29,7 +29,7 @@ The executable targets **Android API 23**, includes **ncurses 6.0 statically lin
 
 ## Downloads
 
-Download the packages from the [Releases] section:
+Download the packages from the [Releases](https://github.com/KETCH502M/htop-for-Android-6.0-ARMv7-Magisk-Module/releases/) section:
 
 | Package | Purpose |
 | --- | --- |
@@ -42,7 +42,7 @@ Download the packages from the [Releases] section:
 
 ### Option 1: Magisk module (recommended)
 
-1. Download `htop-armv7-magisk-v2.0.2.zip` from [Releases].
+1. Download `htop-armv7-magisk-v2.0.2.zip` from [Releases](https://github.com/KETCH502M/htop-for-Android-6.0-ARMv7-Magisk-Module/releases/).
 2. Open **Magisk → Modules → Install from storage**.
 3. Select the downloaded ZIP.
 4. Reboot Android.
